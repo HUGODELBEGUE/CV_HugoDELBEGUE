@@ -261,3 +261,13 @@ textarea {
   }
 }
 
+/**************************************************************************************/
+
+body {
+  background-color: var(--color_background);
+}
+
+p {
+  color: var(--color_text_1);
+}
+
